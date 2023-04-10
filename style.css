@@ -16,8 +16,8 @@ body
 .wrapper
 {
     background-color:#293447 ;
-    width: 360px;
-    height: 400px;
+    width: 65vmin;
+    height: 70vmin;
     display: flex;
     overflow: hidden;
     flex-direction: column;
@@ -56,6 +56,11 @@ body
 }
 @media (max-width:650px)
  {
+     .wrapper
+    {
+    width: 90vmin;
+    height: 115vmin;
+    }
     .controls
     {
     display: flex;
