@@ -16,8 +16,8 @@ body
 .wrapper
 {
     background-color:#293447 ;
-    width: 65vmin;
-    height: 70vmin;
+    width: 360px;
+    height: 350px;
     display: flex;
     overflow: hidden;
     flex-direction: column;
